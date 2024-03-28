@@ -1,0 +1,1 @@
+import{d as s,z as n,b as a,o as r,e as t,p as o,F as c}from"./index-TfxeFXmc.js";const l=s({name:"CardContainer",setup(){return{cn:n}}});function i(e,d,p,f,m,u){return r(),t("div",{class:c(e.cn("flex items-center justify-center [&>div]:w-full",e.$attrs.class??""))},[o(e.$slots,"default")],2)}const $=a(l,[["render",i]]);export{$ as C};
